@@ -1,2 +1,2 @@
 # study_projects
-Here are my projects
+Here is my study project
